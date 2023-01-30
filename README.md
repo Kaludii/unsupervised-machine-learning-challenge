@@ -34,7 +34,7 @@ This activity is broken down into four parts:
 
 3. Created a scatter plot of the t-SNE output.
 
-![scatter_plot](https://github.com/Kaludii/tableau-challenge/blob/main/images/CitiBike_2021_Title.png?raw=true)
+![scatter_plot](https://github.com/Kaludii/unsupervised-machine-learning-challenge/blob/main/Images/scatter_plot.png?raw=true)
 
 #### Part 3: Performed a Cluster Analysis with K-means
 
@@ -44,7 +44,7 @@ Created an elbow plot to identify the best number of clusters. Made sure to do t
 
 * Determined where the elbow of the plot was, and at which value of `k` it appeared.
 
-![cluster_analysis_kmeans](https://github.com/Kaludii/tableau-challenge/blob/main/images/CitiBike_2021_Title.png?raw=true)
+![cluster_analysis_kmeans](https://github.com/Kaludii/unsupervised-machine-learning-challenge/blob/main/Images/cluster_analysis_kmeans.png?raw=true)
 
 #### Part 4: Made a Recommendation
 
