@@ -34,6 +34,8 @@ This activity is broken down into four parts:
 
 3. Created a scatter plot of the t-SNE output.
 
+![scatter_plot](https://github.com/Kaludii/tableau-challenge/blob/main/images/CitiBike_2021_Title.png?raw=true)
+
 #### Part 3: Performed a Cluster Analysis with K-means
 
 Created an elbow plot to identify the best number of clusters. Made sure to do the following:
@@ -41,6 +43,8 @@ Created an elbow plot to identify the best number of clusters. Made sure to do t
 * Used a `for` loop to determine the inertia for each `k` between 1 through 10.
 
 * Determined where the elbow of the plot was, and at which value of `k` it appeared.
+
+![cluster_analysis_kmeans](https://github.com/Kaludii/tableau-challenge/blob/main/images/CitiBike_2021_Title.png?raw=true)
 
 #### Part 4: Made a Recommendation
 
